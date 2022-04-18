@@ -1,6 +1,8 @@
 # ShakespeareRShiny
 Created a shiny application to visualize word counts for Shakespeare plays.
-<hr>
+
+---
+
 You can access my app [here](https://lk9aaw-jay-patel.shinyapps.io/problem-set-3-patel/)
 
 ## How to run the application
